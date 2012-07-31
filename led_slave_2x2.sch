@@ -5499,63 +5499,63 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <busses>
 </busses>
 <nets>
-<net name="N$31" class="0">
+<net name="N$28" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="CKO"/>
 <pinref part="U4" gate="G$1" pin="CKI"/>
 <wire x1="27.94" y1="45.72" x2="60.96" y2="45.72" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$32" class="0">
+<net name="N$29" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="SDO"/>
 <pinref part="U4" gate="G$1" pin="SDI"/>
 <wire x1="27.94" y1="43.18" x2="60.96" y2="43.18" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$33" class="0">
+<net name="N$30" class="0">
 <segment>
 <pinref part="LED5" gate="G$1" pin="BA"/>
 <pinref part="LED6" gate="G$1" pin="BC"/>
 <wire x1="43.18" y1="66.04" x2="43.18" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$34" class="0">
+<net name="N$31" class="0">
 <segment>
 <pinref part="LED5" gate="G$1" pin="GA"/>
 <pinref part="LED6" gate="G$1" pin="GC"/>
 <wire x1="48.26" y1="66.04" x2="48.26" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$35" class="0">
+<net name="N$32" class="0">
 <segment>
 <pinref part="LED5" gate="G$1" pin="RA"/>
 <pinref part="LED6" gate="G$1" pin="RC"/>
 <wire x1="53.34" y1="66.04" x2="53.34" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$36" class="0">
+<net name="N$33" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="ROUT"/>
 <pinref part="R7" gate="G$1" pin="2"/>
 <wire x1="30.48" y1="50.8" x2="27.94" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$37" class="0">
+<net name="N$34" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="GOUT"/>
 <pinref part="R8" gate="G$1" pin="2"/>
 <wire x1="30.48" y1="53.34" x2="27.94" y2="53.34" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$38" class="0">
+<net name="N$35" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="BOUT"/>
 <pinref part="R9" gate="G$1" pin="2"/>
 <wire x1="30.48" y1="55.88" x2="27.94" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$39" class="0">
+<net name="N$36" class="0">
 <segment>
 <pinref part="R9" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="55.88" x2="43.18" y2="55.88" width="0.1524" layer="91"/>
@@ -5563,7 +5563,7 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <wire x1="43.18" y1="55.88" x2="43.18" y2="58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$40" class="0">
+<net name="N$37" class="0">
 <segment>
 <pinref part="R8" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="53.34" x2="48.26" y2="53.34" width="0.1524" layer="91"/>
@@ -5571,7 +5571,7 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <pinref part="LED5" gate="G$1" pin="GC"/>
 </segment>
 </net>
-<net name="N$41" class="0">
+<net name="N$38" class="0">
 <segment>
 <pinref part="R7" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="50.8" x2="53.34" y2="50.8" width="0.1524" layer="91"/>
@@ -5579,28 +5579,28 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <wire x1="53.34" y1="50.8" x2="53.34" y2="58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$42" class="0">
+<net name="N$39" class="0">
 <segment>
 <pinref part="LED7" gate="G$1" pin="BA"/>
 <pinref part="LED8" gate="G$1" pin="BC"/>
 <wire x1="96.52" y1="63.5" x2="96.52" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$43" class="0">
+<net name="N$40" class="0">
 <segment>
 <pinref part="LED7" gate="G$1" pin="GA"/>
 <pinref part="LED8" gate="G$1" pin="GC"/>
 <wire x1="101.6" y1="63.5" x2="101.6" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$44" class="0">
+<net name="N$41" class="0">
 <segment>
 <pinref part="LED7" gate="G$1" pin="RA"/>
 <pinref part="LED8" gate="G$1" pin="RC"/>
 <wire x1="106.68" y1="63.5" x2="106.68" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$45" class="0">
+<net name="N$42" class="0">
 <segment>
 <pinref part="R12" gate="G$1" pin="1"/>
 <wire x1="93.98" y1="53.34" x2="96.52" y2="53.34" width="0.1524" layer="91"/>
@@ -5608,7 +5608,7 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <wire x1="96.52" y1="53.34" x2="96.52" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$46" class="0">
+<net name="N$43" class="0">
 <segment>
 <pinref part="R11" gate="G$1" pin="1"/>
 <wire x1="93.98" y1="50.8" x2="101.6" y2="50.8" width="0.1524" layer="91"/>
@@ -5616,7 +5616,7 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <pinref part="LED7" gate="G$1" pin="GC"/>
 </segment>
 </net>
-<net name="N$47" class="0">
+<net name="N$44" class="0">
 <segment>
 <pinref part="R10" gate="G$1" pin="1"/>
 <wire x1="93.98" y1="48.26" x2="106.68" y2="48.26" width="0.1524" layer="91"/>
@@ -5624,28 +5624,28 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <wire x1="106.68" y1="48.26" x2="106.68" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$48" class="0">
+<net name="N$45" class="0">
 <segment>
 <pinref part="U4" gate="G$1" pin="BOUT"/>
 <pinref part="R12" gate="G$1" pin="2"/>
 <wire x1="81.28" y1="53.34" x2="83.82" y2="53.34" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$49" class="0">
+<net name="N$46" class="0">
 <segment>
 <pinref part="U4" gate="G$1" pin="GOUT"/>
 <pinref part="R11" gate="G$1" pin="2"/>
 <wire x1="81.28" y1="50.8" x2="83.82" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$50" class="0">
+<net name="N$47" class="0">
 <segment>
 <pinref part="U4" gate="G$1" pin="ROUT"/>
 <pinref part="R10" gate="G$1" pin="2"/>
 <wire x1="81.28" y1="48.26" x2="83.82" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$51" class="0">
+<net name="N$48" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="BFB"/>
 <wire x1="27.94" y1="38.1" x2="30.48" y2="38.1" width="0.1524" layer="91"/>
@@ -5698,7 +5698,7 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <junction x="83.82" y="35.56"/>
 </segment>
 </net>
-<net name="N$53" class="0">
+<net name="N$49" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="SDI"/>
 <wire x1="7.62" y1="45.72" x2="0" y2="45.72" width="0.1524" layer="91"/>
@@ -5707,7 +5707,7 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <wire x1="-2.54" y1="48.26" x2="-10.16" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$54" class="0">
+<net name="N$50" class="0">
 <segment>
 <pinref part="JP3" gate="G$1" pin="4"/>
 <wire x1="-10.16" y1="45.72" x2="-2.54" y2="45.72" width="0.1524" layer="91"/>
@@ -5716,7 +5716,7 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <wire x1="0" y1="48.26" x2="7.62" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$55" class="0">
+<net name="N$51" class="0">
 <segment>
 <pinref part="U4" gate="G$1" pin="SDO"/>
 <wire x1="81.28" y1="40.64" x2="96.52" y2="40.64" width="0.1524" layer="91"/>
@@ -5725,7 +5725,7 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <wire x1="99.06" y1="43.18" x2="116.84" y2="43.18" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$56" class="0">
+<net name="N$52" class="0">
 <segment>
 <pinref part="JP4" gate="G$1" pin="4"/>
 <wire x1="116.84" y1="40.64" x2="99.06" y2="40.64" width="0.1524" layer="91"/>
@@ -5734,7 +5734,7 @@ Source: http://www.seoulsemicon.co.kr .. F50360.pdf</description>
 <wire x1="96.52" y1="43.18" x2="81.28" y2="43.18" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$57" class="0">
+<net name="N$53" class="0">
 <segment>
 <pinref part="U4" gate="G$1" pin="VCC"/>
 <wire x1="58.42" y1="73.66" x2="58.42" y2="53.34" width="0.1524" layer="91"/>
