@@ -7446,7 +7446,7 @@ http://dangerousprototypes.com</description>
 <instance part="C5" gate="G$1" x="35.56" y="142.24"/>
 <instance part="P+6" gate="1" x="45.72" y="149.86" rot="R270"/>
 <instance part="GND7" gate="1" x="45.72" y="132.08" rot="R90"/>
-<instance part="PCB2" gate="G$1" x="127" y="40.64"/>
+<instance part="PCB2" gate="G$1" x="91.44" y="35.56"/>
 </instances>
 <busses>
 </busses>
