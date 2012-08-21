@@ -1,4 +1,4 @@
-Daisy-chainable RGB LED boards, interfaced through clocked serial (shift register).
+#Daisy-chainable RGB LED boards, interfaced through clocked serial (shift register).#
 
 Daisy chain slave, single address:
 ![led slave 1x2](https://github.com/JeremyRuhland/saphrix-suit-glow/raw/master/led_slave_1x2.png)
